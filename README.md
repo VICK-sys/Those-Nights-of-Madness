@@ -1,17 +1,15 @@
-# linc/discord-RPC
+## Credits
 
-Haxe/hxcpp @:native bindings for [discord-rpc](https://github.com/discordapp/discord-rpc)
+VICK - Creator, Director, Concept Creator, Programmer
 
-![example rpc](https://raw.githubusercontent.com/Aidan63/haxe-discord_rpc-externs/master/discord_rpc_example.png)
+Soy - Co-Creator, Conception Creator, Artist, Musician, Sound Designer
 
----
-This library only works with the Haxe cpp target.
+DeltalyxArts - Artist, Animator
 
----
+HarutoCH - Artist, Musician
 
-## Install
-`haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc`
+Rofel - Artist, Animator, Sound Designer
 
-## Example Usage
+Peepeequeefer - Sound Designer
 
-See the test/cli folder for a simple command line program using the externs. For all the options you can pass to the initialize and presence functions remember to check the [Discord-RPC docs](https://discordapp.com/developers/docs/rich-presence/how-to) as the haxe functions mirror the functionality.
+D1N0NUGGIES - Voice of Sonic.EXE
